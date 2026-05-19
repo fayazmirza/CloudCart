@@ -1,0 +1,7 @@
+# CloudCart — minimal runtime dependencies for this repo
+python-dotenv
+langchain-core
+langchain-groq
+streamlit
+watchdog
+PyYAML
